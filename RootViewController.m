@@ -388,7 +388,7 @@
 }
 -(void)dsada{
 
-
+//sadasd
 }
 //游戏结束
 -(void)endGame{
