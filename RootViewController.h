@@ -9,5 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface RootViewController : UIViewController
-
+@property(nonatomic,retain)NSString*shtr;
+@property(nonatomic,retain)NSString*shtrsadwa;
 @end
